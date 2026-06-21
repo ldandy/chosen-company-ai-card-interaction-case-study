@@ -22,7 +22,7 @@ Personal, experimental, draft work. Not polished. Not final. Not a finished comm
 - PDF case study render
 - Card-Based Interaction Designer Skill package
 - Preview images
-- Project contents and manifest files
+- Project contents overview
 
 ## Suggested use
 
@@ -60,7 +60,3 @@ Released under the MIT License. Use at your own risk.
 This is draft, experimental prototype material, including AI-generated or AI-assisted assets and prompts. Review suitability, safety, rights, and context before using, publishing, printing, or adapting the materials.
 
 See [LICENSE](LICENSE) for the full licence.
-
-## Recommended private repo name
-
-`chosen-company-ai-card-interaction-case-study`
